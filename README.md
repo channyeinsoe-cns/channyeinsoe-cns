@@ -45,7 +45,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="751a4487-f322-419a-979c-987f04064515" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="016dd6c2-9ebc-4360-88c2-10c3988ef41b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="016dd6c2-9ebc-4360-88c2-10c3988ef41b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script
+
+[![Credly Badge](https://img.shields.io/badge/-Credly-orange?style=for-the-badge&logo=Credly&logoColor=white)](https://www.credly.com/users/chan-nyein-soe-cns/badges)
+
 
 
 ## Projects
