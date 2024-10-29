@@ -1,16 +1,13 @@
 # Hello, I'm Chan
 <a href="https://www.linkedin.com/in/chan-nyein-soe-30102000cns/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I am a recent cybersecurity graduate with a profound interest in cutting edge technology and a dedication to solving complex problems.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I have gained intermediate level of knowledge in cybersecurity field. I am specifically aiming to apply my knowledge on IRP, SOC and PTD in the practical field.
+My journey in computer science has led me to develop a passion for cybersecurity, and I have gained intermediate level of knowledge in cybersecurity field. I am specifically aiming to apply my knowledge on Incident response planning, security operation center and IT officer in the practical field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -45,15 +42,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="751a4487-f322-419a-979c-987f04064515" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="016dd6c2-9ebc-4360-88c2-10c3988ef41b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
 
 ## Projects
-- <a href="https://github.com/channyeinsoe-cns/Security-of-connected-autonomous-vehicle/tree/main">Security of connected autonomous vehicle</a>
-- Predictive analysis on peak pressure caused by BLEVEs
+
+- <a href="https://bitbucket.org/curtincomputingprojects/2024-05-connected-vehicles-security/src/main/">Security of connected autonomous vehicle</a>
+- <a href="">Predictive analysis on peak pressure caused by BLEVEs</a>
